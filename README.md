@@ -14,7 +14,7 @@ Lecture notes and problem-solving resources I have written and used while co-lec
 | Topic | Materials | Level |
 | --- | --- | --- |
 | [graduate-gw-astrophysics-course](graduate-gw-astrophysics-course/) | Lecture notes and Jupyter notebooks (Fall 2023, U Manitoba) | Graduate, University |
-| [gw-supernovae](gw-supernovae/) | Remote Course Lesson Plan and coding worksheet | (2024-2025, U Manitoba) Undergraduate, University |
+| [gw-supernovae](gw-supernovae/) | Remote Course Lesson Plan and coding worksheet (2024-2025, U Manitoba) | Undergraduate, University |
 | [ml-for-astronomy](ml-for-astronomy/) | Lecture notes on gravitational-wave astrophysics and machine learning, and Jupyter notebooks (Fall 2025, U Manitoba) | Undergraduate / Graduate, University |
 | [pulsar-timing-arrays](pulsar-timing-arrays/) | Lecture notes and Jupyter notebooks (Spring 2026, U Manitoba) | Undergraduate / Graduate, University |
 | [witp-2024](witp-2024/) | Lecture worksheets (Summer 2024, U Winnipeg) | Undergraduate, University |
